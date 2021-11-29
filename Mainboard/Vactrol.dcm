@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP opto_resistive
+D Optocoupler, LED Input, Photocell Output
+K optocoupler
+F http://lunainc.com/wp-content/uploads/2016/06/NSL-32.pdf
+$ENDCMP
+#
+#End Doc Library
