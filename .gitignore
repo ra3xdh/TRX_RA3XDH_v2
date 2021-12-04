@@ -1,4 +1,5 @@
 *bak
+*.csv
 *cache
 _autosave*
 fp-lib-table
