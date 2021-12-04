@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Current_Transf
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP Transformer_1P_SS
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+#End Doc Library
